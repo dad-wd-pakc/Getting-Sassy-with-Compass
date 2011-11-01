@@ -1,0 +1,9 @@
+body {
+  background: #3b2925;
+  height: 100%;
+  width: 100%; }
+
+ul {
+  background: red; }
+  ul li {
+    background: blue; }
